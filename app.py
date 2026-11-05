@@ -21,7 +21,7 @@ st.set_page_config(
 BASE_DIR = Path(__file__).resolve().parent
 MODEL_PATH = BASE_DIR / "hazelnut_autoencoder.keras"
 
-THRESHOLD = 0.0007553650
+THRESHOLD = 0.00029319
 PIXEL_THRESHOLD = 0.002
 
 # --------------------------------
